@@ -1,0 +1,28 @@
+# Bin?rios Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Diret?rios de build
+/build/
+/bin/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos tempor?rios
+*.tmp
+*.log
+
+# Configura??o
+.env
+.env.*
